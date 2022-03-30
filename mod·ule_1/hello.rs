@@ -10,5 +10,6 @@ fn main() {
     //bellow is an example of a print statment
     println!("example print statment!");
     println!("I'm a Rustacean");
+    println!("Ahh yes indeed");
 }
 
